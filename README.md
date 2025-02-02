@@ -1,5 +1,5 @@
 # wayfarer
-![IMG_1431](https://github.com/user-attachments/assets/4c72874a-58ea-453a-accf-d1c55cc73b2d)
+<img src="https://github.com/user-attachments/assets/4c72874a-58ea-453a-accf-d1c55cc73b2d" alt="IMG_1431" width="400" />
 
 A new Flutter project.
 
